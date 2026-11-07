@@ -188,4 +188,4 @@ This repository serves as the official landing page for NanoVNASaver. The softwa
 **Get the most recent version of NanoVNASaver today!**
 
 ---
-**Last updated:** 2026-11-07 13:41:44 UTC
+**Last updated:** 2026-11-07 18:26:05 UTC
